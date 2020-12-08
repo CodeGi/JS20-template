@@ -1,0 +1,9 @@
+html {
+     box-sizing: border-box; /*prevents horizontal bars, extra width and/or height from existing  */
+}
+
+body {
+    margin: 0; /* 0 margins on all 4 sides */
+    min-height: 100vh;    /* view height (the full height of the entire window that you are in */
+    background-color: rgb(255, 255, 255);
+}
